@@ -57,7 +57,7 @@ table {
 	src: url(fuentes/HelveticaLTStd-BlkCond.otf);
 }
 /**salvedades imágenes**/
-img{weight: 100%}
+img{width: 100%}
 
 /**interlineado general**/
 body{line-height: 1.5;}
